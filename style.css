@@ -81,11 +81,12 @@ html, body{
 
 @media screen and (max-width: 600px) {
     .card{
-        padding: 0 8%;
+        padding: 0% 8%;
     }
     
     .score{
       font-size: 15px;
+        gap: 8px;
     }
     
   
